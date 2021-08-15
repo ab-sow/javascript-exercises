@@ -5,5 +5,5 @@ const repeatString = function(string, num) {
   }
   return stringRepeat;
 };
-repeatString('hey', 4);
+repeatString('hey', 3);
 module.exports = repeatString;
